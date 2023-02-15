@@ -1,0 +1,7 @@
+.index{
+    height: 100vh;
+}
+.index h1{
+    text-align: center;
+    font-size: 3rem;
+}
